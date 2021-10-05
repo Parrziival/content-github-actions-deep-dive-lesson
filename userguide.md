@@ -1,6 +1,6 @@
 # User Guide
 
-__TESTY TEST__
+__TESTY TESTy__
 
 ## Instally
 
